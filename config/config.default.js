@@ -41,18 +41,18 @@ module.exports = appInfo => {
 
   // 公众号配置
   config.wx = {
-    appId: 'wx6a908ab36533ea40',
-    appSecret: '76d09eb43886a44cf2bb993c99206934',
+    appId: 'wx5bd15a717be574b2',
+    appSecret: 'c27976e32a4c75e0ae80b28341c63c0a',
     token: 'junetext',
-    template_id: 'Z9NaV8KlzSR8-AA7Mb22PjqI1dwq0xggxeMUEjDbhGg', // 推送的模板id
-    user: 'wx6a908ab36533ea40', // 测试号里的用户微信号
+    template_id: 'IDoqJ_k8fW5du-z2ws_WYsswVZytCHi6JqX_s3DGZFA', // 推送的模板id
+    user: 'oIXnO6l7KSI_yc-hmXikTN5kASCI', // 测试号里的用户微信号
   };
 
   config.userData = {
-    mineBirth: '1994-03-24', // 自己的生日
-    gfBirth: '1994-12-26', // 女朋友的生日
-    loveDay: '2007-08-11', // 在一起的日期
-    city: '广州', // 获取天气使用
+    mineBirth: '2001-05-05', // 自己的生日
+    gfBirth: '2001-04-07', // 女朋友的生日
+    loveDay: '2001-02-07', // 在一起的日期
+    city: '菏泽', // 获取天气使用
   };
 
   // 第三方
